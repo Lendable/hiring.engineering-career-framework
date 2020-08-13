@@ -69,8 +69,6 @@ _Expected commercial experience: around 5 years_
 
 Staff Engineer
 ---
-_Expected commercial experience: around 7 years_
-
 _Expected time in the company: around 1 year_
 
 * Demonstrates concepts proactively with prototypes
@@ -90,8 +88,6 @@ _Expected time in the company: around 1 year_
 
 Senior Staff Engineer
 ---
-_Expected commercial experience: around 8 years_
-
 _Expected time in the company: around 2 years_
 
 * Identifies and solves systemic problems with the current architecture
@@ -109,8 +105,6 @@ _Expected time in the company: around 2 years_
 
 Principal Engineer
 ---
-_Expected commercial experience: around 10 years_
-
 _Expected time in the company: around 4 years_
 
 * Invents new techniques to responsibly stretch limits of existing services
@@ -126,8 +120,6 @@ _Expected time in the company: around 4 years_
 
 Distinguished Engineer
 ---
-_Expected commercial experience: around 15 years_
-
 _Expected time in the company: around 6 years_
 
 * Defines long-term goals and ensures active projects are in service of them
