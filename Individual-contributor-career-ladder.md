@@ -1,4 +1,9 @@
+[![Check employee feedback about Lendable on Glassdoor](https://www.glassdoor.co.uk/api/widget/verticalStarRating.htm?e=2982908)](https://www.glassdoor.co.uk/Overview/Working-at-Lendable-UK-EI_IE2982908.11,22.htm)
+
+---
+
 _The below framework was based on some great examples already shared on [www.progression.fyi](https://www.progression.fyi). It is prone to evolution while we learn how to better address the needs of our great engineers._
+
 
 ---
 
